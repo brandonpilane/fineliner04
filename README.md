@@ -8,11 +8,11 @@
     A colorful, modern navigation page!
     <br />
     <br />
-    <a href="https://github.com/ABottleOfSprite/fineliner04/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
+    <a href="https://github.com/brandonpilane/fineliner04/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
     ·
-    <a href="https://github.com/ABottleOfSprite/fineliner04/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=%5BFEATURE%5D">Request Feature</a>
+    <a href="https://github.com/brandonpilane/fineliner04/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=%5BFEATURE%5D">Request Feature</a>
     ·
-    <a href="https://github.com/ABottleOfSprite/fineliner04/issues/new?assignees=&labels=question&projects=&template=question.md&title=%5BQUESTION%5D">Ask A Question</a>
+    <a href="https://github.com/brandonpilane/fineliner04/issues/new?assignees=&labels=question&projects=&template=question.md&title=%5BQUESTION%5D">Ask A Question</a>
   </p>
 </div>
 
@@ -21,22 +21,7 @@
 
 <img src="images/screenshot.png" alt="screenshot">
 
-'fineliner04' is a modern navigation webpage created with the inspiration drawn from a simple tool - a fineliner of 0.4 mm width. 
-
-#### The Story Behind the Name
-
-The name "fineliner04" originates from the initial planning stages of this project. It all started with a simple sketchpad and a fineliner pen with a 0.4 mm tip. As ideas flowed onto the pages of the sketchpad, the concept for this navigation webpage began to take shape. The precision and finesse of the 0.4 mm fineliner inspired the meticulous design and attention to detail that defines fineliner04.
-
-#### Bringing Ideas to Life
-
-fineliner04 is more than just a navigation webpage; it's a testament to creativity and innovation. From the initial concept sketched out on paper to the final product crafted with code, fineliner04 embodies the journey of transforming ideas into reality. 
-
-#### Explore fineliner04
-
-Navigate through fineliner04 to experience a seamless and intuitive user interface, designed to enhance your browsing experience. Discover the elegance of simplicity and the beauty of precision with fineliner04.
-
-
-
+'fineliner04' is a modern navigation webpage built in basic html, css and - some - javascript.
 
 ### Built With
 
@@ -45,17 +30,6 @@ Simple tools:
 * CSS
 * HTML
 * JavaScript
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-markdown
-Copy code
-# Getting Started with fineliner04
-
-Welcome to fineliner04, a modern navigation webpage designed to elevate your browsing experience. Follow these simple steps to get started:
 
 ## Prerequisites
 
@@ -69,17 +43,20 @@ Before you begin, ensure you have the following:
 1. **Clone the Repository**: Start by cloning the fineliner04 repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/your-username/fineliner04.git
-Navigate to the Project Directory: Change into the project directory:
+   git clone https://github.com/brandonpilane/fineliner04.git
+   ```
+2. Navigate to the Project Directory: Change into the project directory:
+  
+    ```bash
+    cd fineliner04
+    ```
 
-bash
-Copy code
-cd fineliner04
-Open in Your Code Editor: Open the project folder in your preferred code editor:
+3. Open the project folder in your preferred code editor:
 
-bash
-Copy code
-code .
+    ```bash
+    code .
+    ```
+    
 Customizing Your Website
 HTML Structure: Modify the HTML files (index.html, about.html, etc.) to reflect your content and desired webpage structure.
 
@@ -122,6 +99,6 @@ Distributed under the MIT License. See `LICENSE.md` for more information.>
 <!-- CONTACT -->
 ## Contact
 
-Brandon - [@BrandonPilane](https://twitter.com/brandonpilane)
+Brandon - [@BrandonPilane](https://x.com/brandonpilane)
 
-Project Link: [https://github.com/bABottleOfSprite/fineliner04](https://github.com/ABottleOfSprite/fineliner04)
+Project Link: [https://github.com/brandonpilane/fineliner04](https://github.com/brandonpilane/fineliner04)
