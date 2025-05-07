@@ -92,7 +92,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-See `[LICENSE](./LICENSE)` for more information.>
+See [LICENSE](./LICENSE) for more information.
 
 
 
